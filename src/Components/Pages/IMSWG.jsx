@@ -212,7 +212,7 @@ const IMSWG = () => {
             </span>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white"
                 style={{ letterSpacing: '-0.01em', fontFamily: '"SF Pro Display", sans-serif' }}>
-              IMSWG 2026 - Coming Soon
+              IMSWG 2026
             </h2>
             <div className="w-20 h-1 bg-cyan-400 rounded-full mx-auto mb-6"></div>
             <p className="text-lg text-slate-300 max-w-3xl mx-auto"
